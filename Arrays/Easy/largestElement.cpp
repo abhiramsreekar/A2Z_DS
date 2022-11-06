@@ -1,4 +1,4 @@
-//Using the ma_element function of vector
+//Using the max_element function of vector
 
 class Solution
 {
